@@ -1,3 +1,11 @@
+## System requirements:
+JDK 11 amazon corretto  
+IntellijIdea
+postgresSQL
+
+## Startup instructions:
+1. Start up app from main class.
+
 ## Список задач
 
 1. Починить тесты
